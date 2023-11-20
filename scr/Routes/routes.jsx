@@ -1,7 +1,7 @@
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import Home from "../screens/FirstScreen";
 import SecondScreen from "../screens/SecondScreen";
-import TerceiraRota from "../screens/TerceiraScreen";
+import TerceiraRota from "../screens/ThirdScreen";
 import {Foundation, Octicons, FontAwesome, AntDesign, Ionicons} from  '@expo/vector-icons'
 
 const Tab = createBottomTabNavigator();

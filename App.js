@@ -6,15 +6,10 @@ export default function App() {
   return (
    
     <NavigationContainer >  
-      <Routes/>        
+  
+      <Routes/>  
+         
     </NavigationContainer>
     
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor:'#111111'
-  },
-});
