@@ -50,7 +50,7 @@ export default Header;
 const Styles = StyleSheet.create({
   container: {
     justifyContent: "space-between",
-    marginTop: "18%",
+    marginTop: "16%",
     flexDirection: "row",
   },
 });

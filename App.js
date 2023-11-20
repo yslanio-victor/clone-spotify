@@ -1,12 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native';
-import FirstScreen from './scr/screens/FirstScreen';
+import Routes from './scr/Routes/routes';
+import {NavigationContainer} from '@react-navigation/native'
 
 export default function App() {
   return (
-    <View style = {styles.container}>
-      <FirstScreen/>
-      
-    </View>
+   
+    <NavigationContainer >  
+      <Routes/>        
+    </NavigationContainer>
+    
   );
 }
 
