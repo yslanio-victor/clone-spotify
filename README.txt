@@ -12,3 +12,7 @@ Agradecimentos
 Gostaria de expressar minha gratidão pela oportunidade de trabalhar nesse projeto desafiador. Cada obstáculo foi uma oportunidade de aprendizado, e estou empolgado com as possibilidades de crescimento que surgirão nas futuras iterações do "Spotify do Zeca Pagodinho".
 
 Sinta-se à vontade para explorar o projeto e ficar atento às futuras atualizações!
+
+
+
+OBS: Estou tendo problema para subir as imagens do clone que fiz e do App que me inspirei. Vou deixar o link da minha pasta do drive com as imagens : https://drive.google.com/drive/folders/1PmBNUvdQyHuvxO4qkbSVCSfXh2P8uukR?usp=sharing
